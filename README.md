@@ -1,2 +1,2 @@
 # Desafio-Classificador-Nivel-Heroi
-Desafio-DIO - Classificador de Nível de herói
+Desafio proposto pelo professor felipe no Bootcamp da DIO.
